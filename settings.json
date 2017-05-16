@@ -1,0 +1,12 @@
+{
+    "workbench.activityBar.visible": false,
+    "editor.fontFamily": "'Ubuntu Mono'",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Solarized Light",
+    "editor.lineNumbers": "off",
+    "workbench.welcome.enabled": false,
+    "workbench.colorCustomizations": {
+        "editor.foreground": "#657b83"
+    }
+}
