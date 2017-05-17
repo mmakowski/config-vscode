@@ -1,8 +1,6 @@
 {
     "workbench.activityBar.visible": false,
-    "editor.fontFamily": "'Ubuntu Mono'",
-    "window.menuBarVisibility": "toggle",
-    "editor.fontSize": 16,
+    "editor.fontSize": 14,
     "workbench.colorTheme": "Solarized Light",
     "editor.lineNumbers": "off",
     "workbench.welcome.enabled": false,
