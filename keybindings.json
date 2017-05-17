@@ -1,0 +1,4 @@
+// attempting to use similar key bindings to Linux
+[
+    { "key": "cmd+shift+g",          "command": "workbench.view.scm" }
+]
