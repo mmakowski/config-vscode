@@ -6,6 +6,7 @@
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
     "editor.dragAndDrop": false,
+    "editor.wordWrap": "on",
     "workbench.welcome.enabled": false,
     "workbench.colorCustomizations": {
         "editor.foreground": "#657b83"
