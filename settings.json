@@ -1,5 +1,6 @@
 {
     "workbench.activityBar.visible": false,
+    "editor.fontFamily": "Iosevka, Monaco",
     "editor.fontSize": 14,
     "workbench.colorTheme": "Solarized Light",
     "editor.lineNumbers": "off",
