@@ -1,13 +1,14 @@
 {
-    "workbench.activityBar.visible": false,
-    "editor.fontFamily": "'Ubuntu Mono'",
-    "window.menuBarVisibility": "toggle",
-    "editor.fontSize": 16,
-    "workbench.colorTheme": "Solarized Light",
+    "editor.dragAndDrop": false,
+    "editor.fontFamily": "Iosevka, 'Ubuntu Mono'",
+    "editor.fontSize": 14,
     "editor.lineNumbers": "off",
-    "workbench.welcome.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "gitlens.blame.line.enabled": false,
+    "workbench.activityBar.visible": false,
     "workbench.colorCustomizations": {
         "editor.foreground": "#657b83"
     },
-    "gitlens.blame.annotation.activeLine": "off"
+    "workbench.colorTheme": "Solarized Light"
 }
