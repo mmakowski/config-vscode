@@ -1,14 +1,14 @@
 {
-    "workbench.activityBar.visible": false,
+    "editor.dragAndDrop": false,
     "editor.fontFamily": "Iosevka, Monaco",
     "editor.fontSize": 14,
-    "workbench.colorTheme": "Solarized Light",
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
-    "editor.dragAndDrop": false,
     "editor.wordWrap": "on",
-    "workbench.welcome.enabled": false,
+    "gitlens.blame.line.enabled": false,
+    "workbench.activityBar.visible": false,
     "workbench.colorCustomizations": {
         "editor.foreground": "#657b83"
-    }
+    },
+    "workbench.colorTheme": "Solarized Light"
 }
