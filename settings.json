@@ -9,5 +9,27 @@
     "editor.minimap.enabled": false,
     "workbench.colorCustomizations": {
         "editor.foreground": "#657b83"
-    }
+    },
+    "cSpell.language": "en-GB",
+    "cSpell.userWords": [
+        "normalem",
+        "softeng",
+        "ulem",
+        "Maciek",
+        "Makowski",
+        "curation",
+        "autoencoders",
+        "RNNs",
+        "Andrej",
+        "Karpathy",
+        "adebiyi",
+        "Wanna",
+        "malware",
+        "SVMs",
+        "Bayes",
+        "neuhaus",
+        "vccfinder"
+    ],
+    "cSpell.enabled": false,
+    "latex-workshop.version": "2.10.0"
 }

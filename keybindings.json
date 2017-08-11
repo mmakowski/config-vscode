@@ -2,5 +2,8 @@
 [
     { "key": "ctrl+d", 
       "command": "editor.action.deleteLines",
+      "when": "editorTextFocus && !editorReadonly"},
+    { "key": "ctrl+shift+up",
+      "command": "editor.action.moveLinesUpAction",
       "when": "editorTextFocus && !editorReadonly"}
 ]
