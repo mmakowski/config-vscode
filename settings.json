@@ -1,6 +1,6 @@
 {
     "editor.dragAndDrop": false,
-    "editor.fontFamily": "Iosevka, 'Ubuntu Mono'",
+    "editor.fontFamily": "Iosevka, Monaco, 'Ubuntu Mono', Consolas",
     "editor.fontSize": 14,
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
