@@ -7,7 +7,6 @@
     "editor.wordWrap": "on",
     "gitlens.blame.line.enabled": false,
     "gitlens.codeLens.enabled": false,
-    "window.menuBarVisibility": "toggle",
     "workbench.activityBar.visible": false,
     "workbench.colorCustomizations": {
         "editor.foreground": "#657b83"
