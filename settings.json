@@ -1,15 +1,4 @@
 {
-    "workbench.activityBar.visible": false,
-    "editor.fontFamily": "'Ubuntu Mono'",
-    "window.menuBarVisibility": "toggle",
-    "editor.fontSize": 16,
-    "workbench.colorTheme": "Solarized Light",
-    "editor.lineNumbers": "off",
-    "workbench.welcome.enabled": false,
-    "editor.minimap.enabled": false,
-    "workbench.colorCustomizations": {
-        "editor.foreground": "#657b83"
-    },
     "cSpell.language": "en-GB",
     "cSpell.userWords": [
         "normalem",
@@ -31,5 +20,19 @@
         "vccfinder"
     ],
     "cSpell.enabled": false,
-    "latex-workshop.version": "2.10.0"
+    "editor.dragAndDrop": false,
+    "editor.fontFamily": "Iosevka, 'Ubuntu Mono'",
+    "editor.fontSize": 16,
+    "editor.lineNumbers": "off",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "gitlens.blame.line.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "latex-workshop.version": "2.10.0",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": false,
+    "workbench.colorCustomizations": {
+        "editor.foreground": "#657b83"
+    },
+    "workbench.colorTheme": "Solarized Light"
 }
