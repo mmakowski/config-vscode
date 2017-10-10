@@ -11,5 +11,6 @@
     "workbench.colorCustomizations": {
         "editor.foreground": "#657b83"
     },
-    "workbench.colorTheme": "Solarized Light"
+    "workbench.colorTheme": "Solarized Light",
+    "editor.renderWhitespace": "none"
 }
