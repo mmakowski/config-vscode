@@ -7,6 +7,19 @@
     "editor.wordWrap": "on",
     "gitlens.blame.line.enabled": false,
     "gitlens.codeLens.enabled": false,
+    "latex-workshop.latex.toolchain": [
+        {
+          "command": "latexmk",
+          "args": [
+            "-synctex=1",
+            "-interaction=nonstopmode",
+            "-file-line-error",
+            "-pdf",
+            "%DOC%",
+            "-shell-escape"
+          ]
+        }
+      ],
     "workbench.activityBar.visible": false,
     "workbench.colorCustomizations": {
         "editor.foreground": "#657b83"
