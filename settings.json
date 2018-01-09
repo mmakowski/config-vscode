@@ -4,6 +4,9 @@
     "editor.fontSize": 14,
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
+    "editor.tokenColorCustomizations": {
+      "keywords": "#657b83"
+    },
     "editor.wordWrap": "on",
     "gitlens.blame.line.enabled": false,
     "gitlens.codeLens.enabled": false,
@@ -25,5 +28,15 @@
         "editor.foreground": "#657b83"
     },
     "workbench.colorTheme": "Solarized Light",
-    "editor.renderWhitespace": "none"
-}
+    "editor.renderWhitespace": "none",
+    "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressUpdateNotice": true,
+      "suppressWelcomeNotice": false
+    }
+  }
