@@ -38,5 +38,12 @@
       "suppressNoRepositoryWarning": false,
       "suppressUpdateNotice": true,
       "suppressWelcomeNotice": false
+    },
+    "[plaintext]": {
+      "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+      }
     }
   }
