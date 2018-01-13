@@ -33,5 +33,6 @@
         "comments": false,
         "strings": false
       }
-    }
+    },
+    "window.menuBarVisibility": "toggle"
 }
