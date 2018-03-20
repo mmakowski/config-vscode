@@ -4,11 +4,11 @@
     "editor.fontSize": 14,
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": false,
     "editor.tokenColorCustomizations": {
       "keywords": "#657b83"
     },
     "editor.wordWrap": "on",
-    "gitlens.blame.line.enabled": false,
     "gitlens.codeLens.enabled": false,
     "latex-workshop.latex.toolchain": [
         {
@@ -45,5 +45,10 @@
         "comments": false,
         "strings": false
       }
-    }
+    },
+    "window.zoomLevel": 0,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.enabled": false,
+    "gitlens.keymap": "alternate",
+    "workbench.startupEditor": "newUntitledFile"
   }
