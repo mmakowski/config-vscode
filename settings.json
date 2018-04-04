@@ -9,7 +9,6 @@
       "keywords": "#657b83"
     },
     "editor.wordWrap": "on",
-    "gitlens.codeLens.enabled": false,
     "latex-workshop.latex.toolchain": [
         {
           "command": "latexmk",
@@ -36,6 +35,8 @@
       "suppressGitVersionWarning": false,
       "suppressLineUncommittedWarning": false,
       "suppressNoRepositoryWarning": false,
+      "suppressResultsExplorerNotice": false,
+      "suppressShowKeyBindingsNotice": true,
       "suppressUpdateNotice": true,
       "suppressWelcomeNotice": false
     },
@@ -47,8 +48,18 @@
       }
     },
     "window.zoomLevel": 0,
-    "gitlens.currentLine.enabled": false,
     "gitlens.hovers.currentLine.enabled": false,
-    "gitlens.keymap": "alternate",
-    "workbench.startupEditor": "newUntitledFile"
+    "gitlens.keymap": "chorded",
+    "workbench.startupEditor": "newUntitledFile",
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.recentChanges.highlight.locations": [
+      "gutter",
+      "line",
+      "overview"
+    ],
+    "extensions.ignoreRecommendations": false
   }
