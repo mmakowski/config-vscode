@@ -55,5 +55,7 @@
         "strings": false
       }
     },
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "toggle",
+    "workbench.startupEditor": "newUntitledFile",
+    "latex-workshop.view.pdf.viewer": "tab"
 }
