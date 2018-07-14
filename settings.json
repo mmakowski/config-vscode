@@ -8,12 +8,12 @@
         "keywords": "#657b83"
     },
     "editor.wordWrap": "on",
-    "gitlens.blame.line.enabled": false,
     "workbench.activityBar.visible": false,
     "workbench.colorCustomizations": {
         "editor.foreground": "#657b83"
     },
     "workbench.colorTheme": "Solarized Light",
+    "editor.renderIndentGuides": false,
     "editor.renderWhitespace": "none",
     "gitlens.advanced.messages": {
         "suppressCommitHasNoPreviousCommitWarning": false,
