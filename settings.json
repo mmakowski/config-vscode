@@ -41,5 +41,10 @@
     "gitlens.hovers.currentLine.enabled": false,
     "gitlens.keymap": "alternate",
     "latex-workshop.view.pdf.viewer": "tab",
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    "explorer.autoReveal": false,
+    "workbench.statusBar.feedback.visible": false,
+    "window.titleBarStyle": "native",
+    "terminal.integrated.fontFamily": "Iosevka"
 }
