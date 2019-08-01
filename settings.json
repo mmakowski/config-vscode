@@ -4,15 +4,14 @@
     "editor.fontSize": 14,
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
-    "editor.tokenColorCustomizations": {
-        "keywords": "#657b83"
-    },
+    // "editor.tokenColorCustomizations": {
+    //     "keywords": "#657b83"
+    // },
     "editor.wordWrap": "on",
     "workbench.activityBar.visible": false,
-    "workbench.colorCustomizations": {
-        "editor.foreground": "#657b83"
-    },
-    "workbench.colorTheme": "Solarized Light",
+    // "workbench.colorCustomizations": {
+    //     "editor.foreground": "#657b83"
+    // },
     "editor.renderIndentGuides": false,
     "editor.renderWhitespace": "none",
     "gitlens.advanced.messages": {
@@ -41,5 +40,16 @@
     "gitlens.hovers.currentLine.enabled": false,
     "gitlens.keymap": "alternate",
     "latex-workshop.view.pdf.viewer": "tab",
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.feedback.visible": false,
+    "python.pythonPath": "/home/maciek/.local/share/virtualenvs/python-iUYvGheF/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "terminal.integrated.fontFamily": "Iosevka",
+    "window.zoomLevel": 0,
+    "python.venvPath": "/home/maciek/.local/share/virtualenvs",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "breadcrumbs.enabled": false
 }
