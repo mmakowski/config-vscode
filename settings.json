@@ -42,7 +42,7 @@
     "latex-workshop.view.pdf.viewer": "tab",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.statusBar.feedback.visible": false,
-    "python.pythonPath": "/home/maciek/.local/share/virtualenvs/python-iUYvGheF/bin/python",
+    "python.pythonPath": "/home/mmakowski/anaconda3/envs/tff/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "terminal.integrated.fontFamily": "Iosevka",
@@ -51,5 +51,10 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "python.jediEnabled": false,
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "window.titleBarStyle": "custom",
+    "terminal.integrated.inheritEnv": false,
+    "python.dataScience.sendSelectionToInteractiveWindow": false,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.rendererType": "dom"
 }
