@@ -34,7 +34,7 @@
         "strings": false
       }
     },
-    "window.menuBarVisibility": "toggle",
+    "window.menuBarVisibility": "default",
     "gitlens.codeLens.enabled": false,
     "gitlens.currentLine.enabled": false,
     "gitlens.hovers.currentLine.enabled": false,
@@ -42,11 +42,11 @@
     "latex-workshop.view.pdf.viewer": "tab",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.statusBar.feedback.visible": false,
-    "python.pythonPath": "/home/mmakowski/anaconda3/envs/tff/bin/python",
+    "python.pythonPath": "/home/mmakowski/anaconda3/envs/anonlink/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "terminal.integrated.fontFamily": "Iosevka",
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "python.venvPath": "/home/maciek/.local/share/virtualenvs",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
@@ -56,5 +56,6 @@
     "terminal.integrated.inheritEnv": false,
     "python.dataScience.sendSelectionToInteractiveWindow": false,
     "files.trimTrailingWhitespace": true,
-    "terminal.integrated.rendererType": "dom"
+    "terminal.integrated.rendererType": "dom",
+    "python.languageServer": "Microsoft"
 }
