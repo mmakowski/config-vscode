@@ -46,7 +46,6 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "terminal.integrated.fontFamily": "Iosevka",
-    "window.zoomLevel": 1,
     "python.venvPath": "/home/maciek/.local/share/virtualenvs",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
