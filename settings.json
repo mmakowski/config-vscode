@@ -42,7 +42,7 @@
     "latex-workshop.view.pdf.viewer": "tab",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.statusBar.feedback.visible": false,
-    "python.pythonPath": "/home/mmakowski/anaconda3/envs/anonlink/bin/python",
+    "python.pythonPath": "/home/mmakowski/opt/anaconda3/envs/37/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "terminal.integrated.fontFamily": "Iosevka",
@@ -53,8 +53,18 @@
     "breadcrumbs.enabled": false,
     "window.titleBarStyle": "custom",
     "terminal.integrated.inheritEnv": false,
-    "python.dataScience.sendSelectionToInteractiveWindow": false,
     "files.trimTrailingWhitespace": true,
     "terminal.integrated.rendererType": "dom",
+    "workbench.editorAssociations": {
+      "*.ipynb": "jupyter-notebook"
+    },
+    "jupyter.sendSelectionToInteractiveWindow": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "go.toolsManagement.autoUpdate": true,
+    "notebook.cellToolbarLocation": {
+      "default": "right",
+      "jupyter-notebook": "left"
+    },
+    "python.defaultInterpreterPath": "/home/mmakowski/opt/anaconda3/envs/37/bin/python",
     "python.languageServer": "Microsoft"
 }
