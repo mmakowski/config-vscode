@@ -9,10 +9,6 @@
     // },
     "editor.wordWrap": "on",
     "workbench.activityBar.visible": false,
-    // "workbench.colorCustomizations": {
-    //     "editor.foreground": "#657b83"
-    // },
-    "editor.renderIndentGuides": false,
     "editor.renderWhitespace": "none",
     "gitlens.advanced.messages": {
         "suppressCommitHasNoPreviousCommitWarning": false,
@@ -53,7 +49,6 @@
     "breadcrumbs.enabled": false,
     "window.titleBarStyle": "custom",
     "terminal.integrated.inheritEnv": false,
-    "files.trimTrailingWhitespace": true,
     "terminal.integrated.rendererType": "dom",
     "workbench.editorAssociations": {
       "*.ipynb": "jupyter-notebook"
@@ -65,6 +60,9 @@
       "default": "right",
       "jupyter-notebook": "left"
     },
-    "python.defaultInterpreterPath": "/home/mmakowski/opt/anaconda3/envs/datasci/bin/python",
-    "python.languageServer": "Default"
+    "python.defaultInterpreterPath": "/home/mmakowski/opt/anaconda3/envs/datahub/bin/python",
+    "python.languageServer": "Default",
+    "editor.guides.indentation": false,
+    "git.mergeEditor": true,
+    "haskell.manageHLS": "GHCup"
 }
